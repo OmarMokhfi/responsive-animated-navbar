@@ -1,7 +1,27 @@
 {
   "name": "navbar",
+  "description": "Navbar React component",
+  "author": "Omar Mokhfi",
+  "keywords": [
+    "react",
+    "components",
+    "ui",
+    "navbar",
+    "responsive",
+    "animated"
+  ],
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarMokhfi/responsive-animated-navbar"
+  },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "@testing-library/jest-dom": "^5.14.1",
