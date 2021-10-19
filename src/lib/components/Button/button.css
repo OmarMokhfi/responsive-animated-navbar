@@ -1,0 +1,14 @@
+.btn {
+    padding: 8px 12px;
+    border: solid 1px transparent;
+    color: white;
+    margin: 10px;
+}
+
+.btn.btn-primary {
+    background: rgb(24, 144, 224);
+}
+
+.btn.btn-danger {
+    background: rgb(207, 65, 55);
+}
